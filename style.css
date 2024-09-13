@@ -1,0 +1,26 @@
+
+*{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.navbar-nav{
+    font-size: 25px;
+    margin-left:20%;
+    letter-spacing: 2px;
+    font-style: italic;
+ 
+}
+.form{
+    margin-top: 40px;
+    margin-bottom: 50px;
+
+}
+.ramzan{
+    overflow: hidden;
+}
+h1{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    margin-left: 650px;
+    font-size: 50px;
+}
